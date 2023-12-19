@@ -34,7 +34,7 @@ int	is_printable(char c)
 }
 
 char	*ft_strcapitalize(char *str)
-{	
+{
 	int	index;	
 	int	flag;
 
